@@ -1,6 +1,20 @@
 # Aprendizaje-Automatico-FIUBA
 Repositorio destinado para la materia Aprendizaje Automatico de la Facultad de Ingenieria de Buenos Aires - FIUBA
 
+## Integrantes
+
+| Integrante | Padrón  | Mail |
+|------------|---------|--------|
+| Maria Delfina Cano Ros Langrehr | 109338 | mcano@fi.uba.ar |
+| Sebastian Kraglievich | 109038 | skraglievich@fi.uba.ar |
+| Edgardo Francisco Saez | 104896 | esaez@fi.uba.ar |
+| Carolina Lucia Mauro | 108294 | cmauro@fi.uba.ar |
+| Martin Wainwright | 108211 | mwainwright@fi.uba.ar |
+| Mateo Bulnes | 106211 | mbulnes@fi.uba.ar |
+
+
+## Manual de ejecución
+
 Para poder ejecutar la hay que seguir lo siguientes pasos:
 1. Instalar las dependencias necesarias:
     - `pip install streamlit pandas joblib gdown`
