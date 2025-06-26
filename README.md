@@ -3,7 +3,7 @@ Repositorio destinado para la materia Aprendizaje Automatico de la Facultad de I
 
 Para poder ejecutar la hay que seguir lo siguientes pasos:
 1. Instalar las dependencias necesarias:
-    - `pip install streamlit pandas joblib`
+    - `pip install streamlit pandas joblib gdown`
  
 2. Ejecutar el siguiente comando en la terminal para correr la aplicacion:
     - `streamlit run app.py`
