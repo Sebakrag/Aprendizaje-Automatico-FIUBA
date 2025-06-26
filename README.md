@@ -11,5 +11,6 @@ Para poder ejecutar la hay que seguir lo siguientes pasos:
 3. Navegar hacia http://localhost:8501.
 
 4. Para utilizar el modelo simplemente agregas un `.csv` con datos nuevos para predecir (sin la columna objetivo). Las predecciones se mostraran por pantalla.
+    - Hay un archivo de test en este repositorio. Se encuentra en `Dataset/hotels_test.csv`.
 
 Ahora bien, para cerrar la aplicacion, primero probar con el comando `Ctrl+C` en la terminal donde esta corriendo el proceso de streamlit. Si esto no funciona, hay que matar el proceso manualmente.
